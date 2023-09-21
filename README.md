@@ -1,6 +1,6 @@
 # RFM Analysis with SQL
 
-This repository contains SQL scripts and documentation for conducting RFM (Recency, Frequency, Monetary) analysis on transportation vehicle sales data. RFM analysis is a valuable technique for segmenting customers based on their purchasing behavior, helping businesses make data-driven marketing and sales decisions. 
+This repository contains SQL scripts and documentation for conducting RFM (Recency, Frequency, Monetary) analysis on vehicle sales data. RFM analysis is a valuable technique for segmenting customers based on their purchasing behavior, helping businesses make data-driven marketing and sales decisions. 
 
 ## About
 
