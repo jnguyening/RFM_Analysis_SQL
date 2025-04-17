@@ -15,4 +15,6 @@ This project focuses on implementing RFM analysis using SQL queries on customer 
 
 ## Note
 
-In addition to RFM analysis, this project also includes sales analysis bases off of the same data. The Dashboard for this project can be found on my Tableau Public Profile, found here: https://public.tableau.com/app/profile/john.nguyen3007#!/?newProfile=&activeTab=0
+In addition to RFM analysis, this project also includes sales analysis bases off of the same data. The Dashboard for this project can be found on my Tableau Public Profile, found here: 
+https://public.tableau.com/app/profile/john.nguyen3007/viz/VehicleSalesDashboardII/SalesDash1
+https://public.tableau.com/app/profile/john.nguyen3007/viz/VehicleSalesDashboardI/SalesDash2
