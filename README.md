@@ -1,21 +1,17 @@
 # RFM Analysis with SQL
 
-This repository contains SQL scripts and documentation for conducting RFM (Recency, Frequency, Monetary) analysis on vehicle sales data. RFM analysis is a valuable technique for segmenting customers based on their purchasing behavior, helping businesses make data-driven marketing and sales decisions. 
+## Overview
+Focused on customer-centric growth, this project develops a behavioral segmentation model in MS SQL Server using Recency, Frequency, and Monetary (RFM) metrics. The technical implementation utilizes NTILE functions to score the customer base and Market Basket Analysis via XML PATH string aggregation to identify frequently co-purchased product bundles. Integrated with a dual-dashboard suite in Tableau, the project provides a 360-degree view of sales performance and customer loyalty, enabling targeted re-engagement strategies for "at-risk" segments.
 
-## About
+A live Tableau dashboard showcasing the insights from this analysis can be accessed here: [Sales Dashboard](https://public.tableau.com/app/profile/john.nguyen3007/viz/VehicleSalesDashboardII/SalesDash1
+) [Sales Dashboard](https://public.tableau.com/app/profile/john.nguyen3007/viz/VehicleSalesDashboardI/SalesDash2
+)
 
-RFM analysis is a powerful method for understanding customer behavior by examining three key aspects:
+
+## Business Questions
 
 - Recency: How recently a customer made a purchase.
 - Frequency: How often a customer makes purchases.
 - Monetary: How much money a customer spends.
 
-This project focuses on implementing RFM analysis using SQL queries on customer transaction data.
 
-
-## Note
-
-In addition to RFM analysis, this project also includes sales analysis bases off of the same data. The Dashboard for this project can be found on my Tableau Public Profile, found here: 
-
-https://public.tableau.com/app/profile/john.nguyen3007/viz/VehicleSalesDashboardII/SalesDash1
-https://public.tableau.com/app/profile/john.nguyen3007/viz/VehicleSalesDashboardI/SalesDash2
